@@ -1,4 +1,3 @@
-# Guthenberg_Project
 We created by using java in netbeans. We always used .txt when creating databases.
 We carried out our transactions by pulling from these databases. We designed the interface of the program with java swing.
 We performed data retrieval from the guthenberg project with InputStreamReader. We created by using java in netbeans.
